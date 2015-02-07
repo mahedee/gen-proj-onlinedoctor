@@ -13,8 +13,8 @@ namespace Model
         public DateTime CreateDate { get; set; }
         public DateTime ActionDate { get; set; }
         public bool IsActive { get; set; }
-        public virtual Hospital Hospital { get; set; }
-        public Appointment Appointment { get; set; }
+        //public virtual Hospital Hospital { get; set; }
+        //public virtual Appointment Appointment { get; set; }
 
     }
 
