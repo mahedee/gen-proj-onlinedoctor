@@ -9,7 +9,7 @@ namespace DoctorsOnline.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(DoctorsOnline.Models.DoctorsOnlineContext context)
