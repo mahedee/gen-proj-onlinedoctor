@@ -12,6 +12,7 @@ namespace Model
         public int Id { get; set; }
         public string UserName { get; set; }
         public string Email { get; set; }
+        public string UserAddress { get; set; }
         //public virtual UserInfo UserInfo { get; set; }
 
         //public UserPassword UserPassword { get; set; }
