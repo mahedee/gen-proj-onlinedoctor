@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace OnlineDoctor.Models
+namespace DoctorsOnline.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

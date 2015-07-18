@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using OnlineDoctor.Controllers;
+using DoctorsOnline.Controllers;
 
-namespace OnlineDoctor.Models
+namespace DoctorsOnline.Models
 {
     public class UserPassword
     {

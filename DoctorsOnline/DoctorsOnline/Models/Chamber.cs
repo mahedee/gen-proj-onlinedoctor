@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 
-namespace OnlineDoctor.Models
+namespace DoctorsOnline.Models
 {
     public class Chamber
     {

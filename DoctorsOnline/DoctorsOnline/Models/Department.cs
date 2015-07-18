@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace OnlineDoctor.Models
+namespace DoctorsOnline.Models
 {
     public class Department
     {

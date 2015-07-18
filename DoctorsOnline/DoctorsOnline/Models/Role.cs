@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.AccessControl;
 using System.Web;
 
-namespace OnlineDoctor.Models
+namespace DoctorsOnline.Models
 {
     public class Role
     {
